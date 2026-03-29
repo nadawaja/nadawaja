@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first C program (and fixing them… eventually)<br>📚 I’m currently learning cloud computing, DevOps practices, and diving deeper into Azure<br>🎯 Goals: Become a skilled cloud engineer and build scalable, real-world systems<br>🎲 Fun fact: I enjoy turning complex problems into simple, clean solutions (and I actually like debugging)</p>
+<p align="left">✨ Creating bugs since I wrote my first C program (and fixing them… eventually)<br>📚 I’m currently learning cloud computing, DevOps practices, and diving deeper into all the three platforms<br>🎯 Goals: Become a skilled cloud engineer and build scalable, real-world systems<br>🎲 Fun fact: I enjoy turning complex problems into simple, clean solutions (and I actually like debugging)</p>
 
 ###
 
