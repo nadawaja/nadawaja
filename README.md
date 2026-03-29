@@ -60,6 +60,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQzYTV5YXp2enN0NmdudzE5NHUzcTV3ZTg0eWVpaWwxZWt2ZzI5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HLB0nLA36GCCo6JuB5/giphy.gif"  />
+</div>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadawaja/nadawaja/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadawaja/nadawaja/output/pacman-contribution-graph.svg">
